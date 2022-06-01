@@ -1,7 +1,11 @@
 # Jason Yeung - Portfolio
 
+## About
+Hi, my name is Jason. I'm a GPhC registered pharmacist with a Masters in Pharmacy from Keele University. I have spent two sucessful years as a Pharmacy Manager but I am now transitioning to a career in data. Admittedly, this is quite a drastic change but I believe it is the right career move for myself and I am excited for the opportunities which lie ahead.
+
+I have created this respository to showcase my journey, the courses I have completed and the projects I have worked on.
+
 ## Contents
-* [About](#about)
 * [Projects](#projects)
   * [Customer Segmentation](#customer-segmentation)
   * [A/B Testing for Fast Food Marketing Campaign](#ab-testing-for-fast-food-marketing-campaign)
@@ -16,11 +20,6 @@
   * [Data Scientist](#data-scientist)
 * [Certificates](#certificates)
 * [Contact Details](#contact-details)
-
-## About
-Hi, my name is Jason. I'm a GPhC registered pharmacist with a Masters in Pharmacy from Keele University. I have spent two sucessful years as a Pharmacy Manager but I am now transitioning to a career in data. Admittedly, this is quite a drastic change but I believe it is the right career move for myself and I am excited for the opportunities which lie ahead.
-
-I have created this respository to showcase my journey, the courses I have completed and the projects I have worked on.
 
 ## Projects
 ### [Customer Segmentation](https://github.com/JasonFDY/Customer-Segmentation/blob/main/Grouping%20Grocery%20Store%20Customers.ipynb)
