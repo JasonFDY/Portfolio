@@ -17,7 +17,7 @@
 * [Contact Details](#contact-details)
 
 ## About
-Hi, my name is Jason. I'm a GPhC registered pharmacist with a Masters in Pharmacy from Keele University. I have spent two sucessful years as a Pharmacy Manager but I am now transitioning to a career in data. Admittedly, this is quite a drastic change but I am excited for the opportunities which lie ahead.
+Hi, my name is Jason. I'm a GPhC registered pharmacist with a Masters in Pharmacy from Keele University. I have spent two sucessful years as a Pharmacy Manager but I am now transitioning to a career in data. Admittedly, this is quite a drastic change but I believe it is the right career move for myself and I am excited for the opportunities which lie ahead.
 
 I have created this respository to showcase my journey, the courses I have completed and the projects I have worked on.
 
@@ -26,6 +26,11 @@ I have created this respository to showcase my journey, the courses I have compl
 __Description__: Clustering of customers from sales data taken from Kaggle. I performed recency, frequency, monetary analysis of customer sales data, transformed data to remove skewness and created a K-means clustering model to identify groups of customers.\
 __Results__: Four different groups of customers were identified; new customers, customers in danger of being lost, customers who have been lost and loyal customers. Ideally, the monetary section of the analysis would have used monetary values, however, as that wasn't available, the number of items bought was used to calculate this.\
 __Tech Stack__: Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-learn, Jupyter Notebook
+
+### [A/B Testing - Fast Food Marketing Campaign](https://github.com/JasonFDY/AB-Test-Promotions/blob/main/AB%20Testing%20-%20Fast%20Food%20Marketing%20Campaign.ipynb)
+__Description__: A/B testing using data from Kaggle to decide between three possible marketing campaigns for a fast food chain promoting a new product. I performed exploratory data analysis through visualisations, transformed data to remove skewness and performed ANOVA and Tukey statistical tests to determine which of three possible marketing campaigns should be chosen.
+__Results__: The ANOVA test determined that null hypothesis of the marketing campaigns not being statistically different was rejected and the results of the Tukey test determined that marketing campaign 3 was the best.
+__Tech Stack__: Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Statsmodels, Jupyter Notebook
 
 ## Completed Courses
 ### [Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
