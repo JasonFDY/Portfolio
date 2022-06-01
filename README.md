@@ -3,6 +3,7 @@
 ## Contents
 * [About](#about)
 * [Projects](#projects)
+  * [Customer Segmentation](#customer-segmentation)
 * [Completed Courses](#completed-courses)
   * [Learn Python 3](#learn-python-3)
   * [Intermediate Python 3](#intermediate-python-3)
