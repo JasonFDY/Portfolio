@@ -21,6 +21,11 @@ Hi, my name is Jason. I'm a GPhC registered pharmacist with a Masters in Pharmac
 I have created this respository to showcase my journey, the courses I have completed and the projects I have worked on.
 
 ## Projects
+### [Customer Segmentation](https://github.com/JasonFDY/Customer-Segmentation/blob/main/Grouping%20Grocery%20Store%20Customers.ipynb)
+__Description__: Clustering of customers from sales data taken from Kaggle. I performed recency, frequency, monetary analysis of customer sales data, transformed data to remove skewness and created a K-means clustering model to identify groups of customers.\
+__Results__: Four different groups of customers were identified; new customers, customers in danger of being lost, customers who have been lost and loyal customers. Ideally, the monetary section of the analysis would have used monetary values, however, as that wasn't available, the number of items bought was used to calculate this.\
+__Tech Stack__: Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-learn, Jupyter Notebook
+
 ## Completed Courses
 ### [Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 __Number of Projects Completed__: 12\
