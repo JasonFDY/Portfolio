@@ -9,6 +9,8 @@ I have created this respository to showcase my journey, the courses I have compl
 * [Projects](#projects)
   * [Customer Segmentation](#customer-segmentation)
   * [A/B Testing for Fast Food Marketing Campaign](#ab-testing-for-fast-food-marketing-campaign)
+* [Courses in Progress](#courses-in-progress)
+  * [Google Data Analytics Certificate](#google-data-analytics-certificate)
 * [Completed Courses](#completed-courses)
   * [Learn Python 3](#learn-python-3)
   * [Intermediate Python 3](#intermediate-python-3)
@@ -31,6 +33,9 @@ __Tech Stack__: Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-learn,
 __Description__: A/B testing using data from Kaggle to decide between three possible marketing campaigns for a fast food chain promoting a new product. I performed exploratory data analysis through visualisations, transformed data to remove skewness and performed ANOVA and Tukey statistical tests to determine which of three possible marketing campaigns should be chosen.\
 __Results__: The ANOVA test determined that null hypothesis of the marketing campaigns, not being statistically different, was rejected and the results of the Tukey test determined that marketing campaign 3 was the best.\
 __Tech Stack__: Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Statsmodels, Jupyter Notebook
+
+## Courses in Progress
+### [Google Data Analytics Certificate](https://grow.google/certificates/data-analytics)
 
 ## Completed Courses
 ### [Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
