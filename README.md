@@ -17,7 +17,7 @@ As you can probably tell, I'm really looking forward to the opportunities which 
 * [Courses in Progress](#courses-in-progress)
   * [Google Data Analytics Certificate](#google-data-analytics-certificate)
 * [Completed Courses](#completed-courses)
-  * [Codecademy Courses](#codecademy-courses)
+  * [Codecademy](#codecademy)
     * [Learn Python 3](#learn-python-3)
     * [Intermediate Python 3](#intermediate-python-3)
     * [Learn SQL](#learn-sql)
@@ -26,7 +26,7 @@ As you can probably tell, I'm really looking forward to the opportunities which 
     * [Data Analyst Career Path](#data-analyst-career-path)
     * [Data Scientist Career Path](#data-scientist-career-path)
 * [Certificates](#certificates)
-  * [Codecademy](#codecademy)
+  * [Codecademy Certificates](#codecademy-certificates)
   * [Google](#google)
 * [Contact Details](#contact-details)
 
@@ -55,7 +55,7 @@ __Tech Stack__: Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Statsmodels, 
 * [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
 
 ## Completed Courses
-### Codecademy Courses
+### Codecademy
 #### [Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 __Number of Projects Completed__: 12\
 __Topics Covered__:
@@ -137,7 +137,7 @@ __Topics Covered__:
 * How to work with aggregate functions and joins in SQL
 
 ## Certificates
-### Codecademy
+### Codecademy Certificates
 * [Learn Python 3](https://www.codecademy.com/profiles/JasonFDY/certificates/6c152bd262967f8c941c9707ed636bda)
 * [Learn Intermediate Python 3](https://www.codecademy.com/profiles/JasonFDY/certificates/18580789eaba28f09e116f4fc2acec44)
 * [Learn SQL](https://www.codecademy.com/profiles/JasonFDY/certificates/042a4e5884e3eb6ea1f2a12be6abb851)
@@ -145,7 +145,7 @@ __Topics Covered__:
 * [BI Dashboards with Tableau](https://www.codecademy.com/profiles/JasonFDY/certificates/050d7cf465567fdd0c9abb1fbf20e269)
 * [Data Analyst](https://www.codecademy.com/profiles/JasonFDY/certificates/1a410e7477834f6d9579764624f78263)
 * [Data Scientist](https://www.codecademy.com/profiles/JasonFDY/certificates/762f592a0ee543b5bd4b58ffec9eae82)
-### Google
+### Google Certificates
 * [Foundations: Data, Data, Everywhere](https://coursera.org/share/ca6e3184a52c77a6e6c0a3b4626e93c9)
 * [Ask Questions to Make Data-Driven Decisions](https://coursera.org/share/cbcca22cbeb4cb31b1d0927152ea0723)
 * [Prepare Data for Exploration](https://coursera.org/share/d2c6fee7879ea8e40959b6f513ff0e57)
