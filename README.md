@@ -17,14 +17,14 @@ As you can probably tell, I'm really looking forward to the opportunities which 
 * [Courses in Progress](#courses-in-progress)
   * [Google Data Analytics Certificate](#google-data-analytics-certificate)
 * [Completed Courses](#completed-courses)
-  * [Learn Python 3](#learn-python-3)
-  * [Intermediate Python 3](#intermediate-python-3)
-  * [Learn SQL](#learn-sql)
-  * [Analyze Data with SQL](#analyze-data-with-sql)
-  * [BI Dashboards with Tableau](#bi-dashboards-with-tableau)
-* [Completed Career Paths](#completed-career-paths)
-  * [Data Analyst](#data-analyst)
-  * [Data Scientist](#data-scientist)
+  * [Codecademy Courses](#codecademy-courses)
+    * [Learn Python 3](#learn-python-3)
+    * [Intermediate Python 3](#intermediate-python-3)
+    * [Learn SQL](#learn-sql)
+    * [Analyze Data with SQL](#analyze-data-with-sql)
+    * [BI Dashboards with Tableau](#bi-dashboards-with-tableau)
+    * [Data Analyst Career Path](#data-analyst-career-path)
+    * [Data Scientist Career Path](#data-scientist-career-path)
 * [Certificates](#certificates)
   * [Codecademy](#codecademy)
   * [Google](#google)
@@ -55,7 +55,8 @@ __Tech Stack__: Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Statsmodels, 
 * [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
 
 ## Completed Courses
-### [Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
+### Codecademy Courses
+#### [Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 __Number of Projects Completed__: 12\
 __Topics Covered__:
 * How to write Python syntax to print and work with user input
@@ -69,7 +70,7 @@ __Topics Covered__:
 * How to work with files in an automated way
 * How the relationship between a class and an object works to create object-oriented code
 
-### [Intermediate Python 3](https://www.codecademy.com/learn/learn-intermediate-python-3)
+#### [Intermediate Python 3](https://www.codecademy.com/learn/learn-intermediate-python-3)
 __Number of Projects Completed__: 7\
 __Topics Covered__:
 * The various ways to utilize functions to create cleaner and more manageable code
@@ -79,13 +80,13 @@ __Topics Covered__:
 * How to better manage resources using context managers
 * How to use the Python Unittest library to test complex applications
 
-### [Learn SQL](https://www.codecademy.com/learn/learn-sql)
+#### [Learn SQL](https://www.codecademy.com/learn/learn-sql)
 __Number of Projects Completed__: 5\
 __Topics Covered__:
 * How to communicate with relational databases through SQL
 * How to manipulate data and build queries that communicate with more than one table
 
-### [Analyze Data with SQL](https://www.codecademy.com/learn/paths/analyze-data-with-sql)
+#### [Analyze Data with SQL](https://www.codecademy.com/learn/paths/analyze-data-with-sql)
 __Number of Projects Completed__: 18\
 __Topics Covered__:
 * Learning the basics of SQL databases, the and how to build one
@@ -96,15 +97,14 @@ __Topics Covered__:
 * How to analyze marketing campaigns using marketing attribution
 * How to use a window functions to perform calculations across a set of table rows
 
-### [BI Dashboards with Tableau](https://www.codecademy.com/learn/bi-dashboards-with-tableau)
+#### [BI Dashboards with Tableau](https://www.codecademy.com/learn/bi-dashboards-with-tableau)
 __Number of Projects Completed__: 1\
 __Topics Covered__:
 * How to load and join data
 * How to develop effective visualizations
 * How to build compelling data stories
 
-## Completed Career Paths
-### [Data Analyst](https://www.codecademy.com/learn/paths/data-analyst-2021)
+#### [Data Analyst Career Path](https://www.codecademy.com/learn/paths/data-analyst-2021)
 __Number of Projects Completed__: 54\
 __Topics Covered__:
 * How to create programs using Python 3
@@ -119,7 +119,7 @@ __Topics Covered__:
 * How to work with aggregate functions, joins, and advanced queries in SQL
 * How to apply SQL knowledge to common business and marketing problems
 
-### [Data Scientist](https://www.codecademy.com/learn/paths/data-science-2021)
+#### [Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science-2021)
 __Number of Projects Completed__: 64\
 __Topics Covered__:
 * How to create programs using Python 3
