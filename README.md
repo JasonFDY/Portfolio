@@ -31,7 +31,7 @@ As you can probably tell, I'm really looking forward to the opportunities which 
 * [Contact Details](#contact-details)
 
 ## Projects
-### [Customer Segmentation](https://github.com/JasonFDY/Portfolio/blob/ae875745201b39afeca44dffe64b6d1cbbff2ab3/Customer%20Segmentation/Grouping%20Grocery%20Store%20Customers.ipynb)
+### [Customer Segmentation](https://github.com/JasonFDY/Portfolio/blob/0fe2d744ad578561bb3a56d9d2a7f15d002e1c72/Customer%20Segmentation/Grouping%20Grocery%20Store%20Customers.ipynb)
 __Description__: Clustering of customers from sales data taken from Kaggle. I performed recency, frequency, monetary analysis of customer sales data, transformed data to remove skewness and created a K-means clustering model to identify groups of customers.\
 __Results__: Four different groups of customers were identified; new customers, customers in danger of being lost, customers who have been lost and loyal customers. Ideally, the monetary section of the analysis would have used monetary values, however, as that wasn't available, the number of items bought was used to calculate this.\
 __Tech Stack__: Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-learn, Jupyter Notebook
