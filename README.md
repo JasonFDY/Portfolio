@@ -146,13 +146,13 @@ __Topics Covered__:
 * [Data Analyst](https://www.codecademy.com/profiles/JasonFDY/certificates/1a410e7477834f6d9579764624f78263)
 * [Data Scientist](https://www.codecademy.com/profiles/JasonFDY/certificates/762f592a0ee543b5bd4b58ffec9eae82)
 ### Google
-* [Foundations: Data, Data, Everywhere](https://coursera.org/share/ad236815542ae87e1f673fa8dfaa501f)
-* [Ask Questions to Make Data-Driven Decisions](https://coursera.org/share/43a49f58de17e61fddc79f4011ea3d3e)
-* [Prepare Data for Exploration](https://coursera.org/share/bf9c66cea3dd7eafadc005b02b758a34)
-* [Process Data from Dirty to Clean](https://coursera.org/share/a583d49f413ccfe0c8b0f9d73a2d22bd)
-* [Analyze Data to Answer Questions](https://coursera.org/share/3799fd48d57343766a85b36ea12b51d1)
-* [Share Data Through the Art of Visualization](https://coursera.org/share/3c20ef0acbd962c3a45716af9de60694)
-* [Data Analysis with R Programming](https://coursera.org/share/4f4bccfae771ede7667bbd9ce9f837b0)
+* [Foundations: Data, Data, Everywhere](https://coursera.org/share/ca6e3184a52c77a6e6c0a3b4626e93c9)
+* [Ask Questions to Make Data-Driven Decisions](https://coursera.org/share/cbcca22cbeb4cb31b1d0927152ea0723)
+* [Prepare Data for Exploration](https://coursera.org/share/d2c6fee7879ea8e40959b6f513ff0e57)
+* [Process Data from Dirty to Clean](https://coursera.org/share/02221f266b4cf10e1bfd486f501217cd)
+* [Analyze Data to Answer Questions](https://coursera.org/share/0787f5b370933e982c786f32f91b2221)
+* [Share Data Through the Art of Visualization](https://coursera.org/share/9d5f26b20f553e41f93d0e4fb05470fc)
+* [Data Analysis with R Programming](https://coursera.org/share/29e6738f4782c520372a88a07f2d1fb6)
 
 ## Contact Details
 * Email: [Jason_FDY@hotmail.com](mailto:Jason_FDY@hotmail.com)
