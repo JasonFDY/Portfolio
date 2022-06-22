@@ -26,6 +26,8 @@ As you can probably tell, I'm really looking forward to the opportunities which 
   * [Data Analyst](#data-analyst)
   * [Data Scientist](#data-scientist)
 * [Certificates](#certificates)
+  * [Codecademy](#codecademy)
+  * [Google](#google)
 * [Contact Details](#contact-details)
 
 ## Projects
@@ -135,6 +137,7 @@ __Topics Covered__:
 * How to work with aggregate functions and joins in SQL
 
 ## Certificates
+### Codecademy
 * [Learn Python 3](https://www.codecademy.com/profiles/JasonFDY/certificates/6c152bd262967f8c941c9707ed636bda)
 * [Learn Intermediate Python 3](https://www.codecademy.com/profiles/JasonFDY/certificates/18580789eaba28f09e116f4fc2acec44)
 * [Learn SQL](https://www.codecademy.com/profiles/JasonFDY/certificates/042a4e5884e3eb6ea1f2a12be6abb851)
@@ -142,6 +145,14 @@ __Topics Covered__:
 * [BI Dashboards with Tableau](https://www.codecademy.com/profiles/JasonFDY/certificates/050d7cf465567fdd0c9abb1fbf20e269)
 * [Data Analyst](https://www.codecademy.com/profiles/JasonFDY/certificates/1a410e7477834f6d9579764624f78263)
 * [Data Scientist](https://www.codecademy.com/profiles/JasonFDY/certificates/762f592a0ee543b5bd4b58ffec9eae82)
+### Google
+* [Foundations: Data, Data, Everywhere](https://coursera.org/share/ad236815542ae87e1f673fa8dfaa501f)
+* [Ask Questions to Make Data-Driven Decisions](https://coursera.org/share/43a49f58de17e61fddc79f4011ea3d3e)
+* [Prepare Data for Exploration](https://coursera.org/share/bf9c66cea3dd7eafadc005b02b758a34)
+* [Process Data from Dirty to Clean](https://coursera.org/share/a583d49f413ccfe0c8b0f9d73a2d22bd)
+* [Analyze Data to Answer Questions](https://coursera.org/share/3799fd48d57343766a85b36ea12b51d1)
+* [Share Data Through the Art of Visualization](https://coursera.org/share/3c20ef0acbd962c3a45716af9de60694)
+* [Data Analysis with R Programming](https://coursera.org/share/4f4bccfae771ede7667bbd9ce9f837b0)
 
 ## Contact Details
 * Email: [Jason_FDY@hotmail.com](mailto:Jason_FDY@hotmail.com)
