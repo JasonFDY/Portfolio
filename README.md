@@ -31,12 +31,12 @@ As you can probably tell, I'm really looking forward to the opportunities which 
 * [Contact Details](#contact-details)
 
 ## Projects
-### [Customer Segmentation](https://github.com/JasonFDY/Customer-Segmentation/blob/main/Grouping%20Grocery%20Store%20Customers.ipynb)
+### [Customer Segmentation](https://github.com/JasonFDY/Portfolio/blob/ae875745201b39afeca44dffe64b6d1cbbff2ab3/Customer%20Segmentation/Grouping%20Grocery%20Store%20Customers.ipynb)
 __Description__: Clustering of customers from sales data taken from Kaggle. I performed recency, frequency, monetary analysis of customer sales data, transformed data to remove skewness and created a K-means clustering model to identify groups of customers.\
 __Results__: Four different groups of customers were identified; new customers, customers in danger of being lost, customers who have been lost and loyal customers. Ideally, the monetary section of the analysis would have used monetary values, however, as that wasn't available, the number of items bought was used to calculate this.\
 __Tech Stack__: Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-learn, Jupyter Notebook
 
-### [A/B Testing for Fast Food Marketing Campaign](https://github.com/JasonFDY/AB-Test-Promotions/blob/main/AB%20Testing%20-%20Fast%20Food%20Marketing%20Campaign.ipynb)
+### [A/B Testing for Fast Food Marketing Campaign](https://github.com/JasonFDY/Portfolio/blob/ae875745201b39afeca44dffe64b6d1cbbff2ab3/AB-Test-Promotions/AB%20Testing%20-%20Fast%20Food%20Marketing%20Campaign.ipynb)
 __Description__: A/B testing using data from Kaggle to decide between three possible marketing campaigns for a fast food chain promoting a new product. I performed exploratory data analysis through visualisations, transformed data to remove skewness and performed ANOVA and Tukey statistical tests to determine which of three possible marketing campaigns should be chosen.\
 __Results__: The ANOVA test determined that null hypothesis of the marketing campaigns, not being statistically different, was rejected and the results of the Tukey test determined that marketing campaign 3 was the best.\
 __Tech Stack__: Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Statsmodels, Jupyter Notebook
