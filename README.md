@@ -1,9 +1,14 @@
 # Jason Yeung - Portfolio
 
 ## About
-Hi, my name is Jason. I'm a GPhC registered pharmacist with a Masters in Pharmacy from Keele University. I have spent two sucessful years as a Pharmacy Manager but I am now transitioning to a career in data. Admittedly, this is quite a drastic change but I believe it is the right career move for myself and I am excited for the opportunities which lie ahead.
+Hi, my name is Jason. I'm an aspiring data analyst and a GPhC registered pharmacist with a Masters in Pharmacy from Keele University. I am self taught and have developed skills in Excel/Google Sheets, SQL, Tableau, R and Python by completing courses on Codecademy and the Google Data Analytics Certificate. 
 
-I have created this respository to showcase my journey, the courses I have completed and the projects I have worked on.
+### Why I Am Changing Careers
+Admittedly, this is quite a drastic change, but I believe it is the right career move for myself. To make a long story short, pharmacy was never a career I dreamt about, it was more of a matter of being guided in that direction because of the subjects I performed well in and it being a well regarded profession. I have learnt a lot and have developed a lot of skills as a pharmacist and a manager, however, I have since come to the realisation that unfortunately, it is not a career I can see myself in in the long term. 
+
+I would like my job to be something I have more of a personal interest in, I would like to really geek out about what I do and I have found that in data analytics. Since I started my learning, I have been able to really appreciate how data can be used and the insights that it brings. The fact that there is so much to learn is really exciting and it is so satisfying being able to solve problems using this knowledge. 
+
+As you can probably tell, I'm really looking forward to the opportunities which lie ahead for me. I have made this repository to showcase my journey, the courses I have completed and the projects I have worked on.
 
 ## Contents
 * [Projects](#projects)
@@ -36,6 +41,16 @@ __Tech Stack__: Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Statsmodels, 
 
 ## Courses in Progress
 ### [Google Data Analytics Certificate](https://grow.google/certificates/data-analytics)
+#### Completed
+* [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data)
+* [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions)
+* [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation)
+* [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data)
+* [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data)
+* [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data)
+* [Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r)
+#### In Progress
+* [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
 
 ## Completed Courses
 ### [Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
