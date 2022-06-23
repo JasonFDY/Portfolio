@@ -38,7 +38,7 @@ __Tech Stack__: Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-learn,
 
 ### [A/B Testing for Fast Food Marketing Campaign](https://github.com/JasonFDY/Portfolio/blob/ae875745201b39afeca44dffe64b6d1cbbff2ab3/AB-Test-Promotions/AB%20Testing%20-%20Fast%20Food%20Marketing%20Campaign.ipynb)
 __Description__: A/B testing using data from Kaggle to decide between three possible marketing campaigns for a fast food chain promoting a new product. I performed exploratory data analysis through visualisations, transformed data to remove skewness and performed ANOVA and Tukey statistical tests to determine which of three possible marketing campaigns should be chosen.\
-__Results__: The ANOVA test determined that null hypothesis of the marketing campaigns, not being statistically different, was rejected and the results of the Tukey test determined that marketing campaign 3 was the best.\
+__Results__: The ANOVA test determined that null hypothesis of the marketing campaigns, not being statistically different, was rejected and the results of the Tukey test determined that marketing campaign 1 was the best.\
 __Tech Stack__: Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Statsmodels, Jupyter Notebook
 
 ## Courses in Progress
