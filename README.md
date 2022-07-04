@@ -14,9 +14,16 @@ As you can probably tell, I'm really looking forward to the opportunities which 
 * [Projects](#projects)
   * [Customer Segmentation](#customer-segmentation)
   * [A/B Testing for Fast Food Marketing Campaign](#ab-testing-for-fast-food-marketing-campaign)
-* [Courses in Progress](#courses-in-progress)
-  * [Google Data Analytics Certificate](#google-data-analytics-certificate)
 * [Completed Courses](#completed-courses)
+  * [Google Data Analytics Certificate](#google-data-analytics-certificate)
+    * [Foundations: Data, Data, Everywhere](#foundations-data-data-everywhere)
+    * [Ask Questions to Make Data-Driven Decisions](#ask-questions-to-make-data-driven-decisions)
+    * [Prepare Data for Exploration](#prepare-data-for-exploration)
+    * [Process Data from Dirty to Clean](#process-data-from-dirty-to-clean)
+    * [Analyze Data to Answer Questions](#analyze-data-to-answer-questions)
+    * [Share Data Through the Art of Visualization](#share-data-through-the-art-of-visualization)
+    * [Data Analysis with R Programming](#data-analysis-with-r-programming)
+    * [Google Data Analytics Capstone: Complete a Case Study](#google-data-analytics-capstone-complete-a-case-study)
   * [Codecademy](#codecademy)
     * [Learn Python 3](#learn-python-3)
     * [Intermediate Python 3](#intermediate-python-3)
@@ -41,21 +48,105 @@ __Description__: A/B testing using data from Kaggle to decide between three poss
 __Results__: The ANOVA test determined that null hypothesis of the marketing campaigns, not being statistically different, was rejected and the results of the Tukey test determined that marketing campaign 1 was the best.\
 __Tech Stack__: Python, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Statsmodels, Jupyter Notebook
 
-## Courses in Progress
-### [Google Data Analytics Certificate](https://grow.google/certificates/data-analytics)
-#### Completed
-* [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data)
-* [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions)
-* [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation)
-* [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data)
-* [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data)
-* [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data)
-* [Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r)
-#### In Progress
-* [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
+
 
 ## Completed Courses
-### Codecademy
+### [Google Data Analytics Certificate](https://grow.google/certificates/data-analytics)
+#### [Foundations: Data, Data, Everywhere](https://www.coursera.org/learn/foundations-data)
+* Using data in everyday life
+* Thinking analytically
+* Spreadsheet basics
+* Database and query basics
+* Data visualization basics
+* Showing trends and patterns with data visualizations
+* Applying tools from the data analytics toolkit
+* Ensuring data analysis is fair
+* Real-life roles and responsibilities of a junior data analyst
+* How businesses transform data into actionable insights
+
+#### [Ask Questions to Make Data-Driven Decisions](https://www.coursera.org/learn/ask-questions-make-decisions)
+* How data analysts solve problems with data
+* Structuring how to think
+* Spreadsheet formulas and functions
+* Dashboard basics, including an introduction to Tableau
+* Data reporting basics
+* Summarizing data
+* Putting things into context
+* Managing team and stakeholder expectations
+* Asking SMART and effective questions
+* Problem-solving and conflict-resolution
+* The use of analytics for making data-driven decisions
+
+#### [Prepare Data for Exploration](https://www.coursera.org/learn/data-preparation)
+* How data is generated
+* The function of metadata in data analytics
+* Features of different data types, fields, and values
+* Database structures
+* Accessing databases and importing data
+* Writing simple queries
+* Structured Query Language (SQL) functions
+* Ensuring ethical data analysis practices
+* Addressing issues of bias and credibility
+* Organizing and protecting data
+
+#### [Process Data from Dirty to Clean](https://www.coursera.org/learn/process-data)
+* Data integrity and the importance of clean data
+* Identifying clean and dirty data
+* The tools and processes used by data analysts to clean data
+* Cleaning small datasets using spreadsheet tools
+* Cleaning large datasets by writing SQL queries
+* Documenting data-cleaning processes
+* Data-cleaning verification and reports
+* Statistics, hypothesis testing, and margin of error
+* Connecting business objectives to data analysis
+
+#### [Analyze Data to Answer Questions](https://www.coursera.org/learn/analyze-data)
+* Steps data analysts take to organize data
+* Sorting data in spreadsheets and by writing SQL queries
+* Filtering data in spreadsheets and by writing SQL queries
+* Temporary tables
+* How to combine data from multiple sources
+* Converting data
+* Formatting data
+* Data validation
+* Spreadsheet calculations and pivot tables
+* SQL calculations
+* Substantiating data analysis processes
+* Seeking feedback and support from others during data analysis
+
+#### [Share Data Through the Art of Visualization](https://www.coursera.org/learn/visualize-data)
+* Design thinking
+* How data analysts use visualizations to communicate about data
+* Addressing accessibility issues when communicating about data
+* Understanding the purpose of different business communication tools
+* Data-driven storytelling
+* Dashboards and dashboard filters
+* The benefits of Tableau for presenting data analysis findings
+* Creating visualizations and dashboards in Tableau
+* Strategies for creating an effective data presentation
+* Telling a data-driven story
+* Presenting to others about data
+* Answering questions about data
+
+#### [Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r)
+* Programming languages and environments
+* R packages
+* R functions, variables, data types, pipes, and vectors
+* R data frames
+* Accessing data in R
+* Cleaning data in R
+* Bias and credibility in R
+* R visualization tools
+* R Markdown for documentation, creating structure, and emphasis
+* Reporting on data analysis to stakeholders
+
+#### [Google Data Analytics Capstone: Complete a Case Study](https://www.coursera.org/learn/google-data-analytics-capstone)
+* Practical, real-world problem-solving
+* Strategies for extracting insights from data
+* Clear presentation of data findings
+* Showcasing data analytics knowledge, skill, and technical expertise
+
+### [Codecademy](https://www.codecademy.com)
 #### [Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 __Number of Projects Completed__: 12\
 __Topics Covered__:
