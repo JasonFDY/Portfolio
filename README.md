@@ -34,7 +34,7 @@ As you can probably tell, I'm really looking forward to the opportunities which 
     * [Data Scientist Career Path](#data-scientist-career-path)
 * [Certificates](#certificates)
   * [Codecademy Certificates](#codecademy-certificates)
-  * [Google](#google)
+  * [Google Certificates](#google-certificates)
 * [Contact Details](#contact-details)
 
 ## Projects
