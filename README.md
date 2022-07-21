@@ -12,6 +12,7 @@ As you can probably tell, I'm really looking forward to the opportunities which 
 
 ## Contents
 * [Projects](#projects)
+  * [Capstone Project - Analysis of Smart Device Users](#capstone-project-analysis-of-smart-device-users)
   * [Customer Segmentation](#customer-segmentation)
   * [A/B Testing for Fast Food Marketing Campaign](#ab-testing-for-fast-food-marketing-campaign)
 * [Completed Courses](#completed-courses)
@@ -38,6 +39,11 @@ As you can probably tell, I'm really looking forward to the opportunities which 
 * [Contact Details](#contact-details)
 
 ## Projects
+### [Capstone Project - Analysis of Smart Device Users](https://rpubs.com/JasonFDY/bellabeat)
+__Description__: Analysis of smart device data taken from kaggle to gain insights into how consumers use their devices. I evaluated the data and its limitations, cleaned, aggregated and merged the data, grouped users and created visualisations.\ 
+__Results__: Recommendations were made for Bellabeat's marketing strategy based on the trends discovered. Due to the limitations of the data, recommendations for how the company could improve this analysis were also provided.\
+__Tech Stack__: SQL, BigQuery, R, Rstudio, Tidyverse, Tableau
+
 ### [Customer Segmentation](https://github.com/JasonFDY/Portfolio/blob/0fe2d744ad578561bb3a56d9d2a7f15d002e1c72/Customer%20Segmentation/Grouping%20Grocery%20Store%20Customers.ipynb)
 __Description__: Clustering of customers from sales data taken from Kaggle. I performed recency, frequency, monetary analysis of customer sales data, transformed data to remove skewness and created a K-means clustering model to identify groups of customers.\
 __Results__: Four different groups of customers were identified; new customers, customers in danger of being lost, customers who have been lost and loyal customers. Ideally, the monetary section of the analysis would have used monetary values, however, as that wasn't available, the number of items bought was used to calculate this.\
@@ -244,6 +250,8 @@ __Topics Covered__:
 * [Analyze Data to Answer Questions](https://coursera.org/share/0787f5b370933e982c786f32f91b2221)
 * [Share Data Through the Art of Visualization](https://coursera.org/share/9d5f26b20f553e41f93d0e4fb05470fc)
 * [Data Analysis with R Programming](https://coursera.org/share/29e6738f4782c520372a88a07f2d1fb6)
+* [Google Data Analytics Capstone: Complete a Case Study](https://coursera.org/share/758363d7b7514996db1ee5a4c0118356)
+* [Google Data Analytics](https://coursera.org/share/e2636abd9a0417d9b1ba7cee59f208cd)
 
 ## Contact Details
 * Email: [Jason_FDY@hotmail.com](mailto:Jason_FDY@hotmail.com)
