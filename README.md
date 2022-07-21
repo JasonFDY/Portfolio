@@ -40,7 +40,7 @@ As you can probably tell, I'm really looking forward to the opportunities which 
 
 ## Projects
 ### [Capstone Project - Analysis of Smart Device Users](https://rpubs.com/JasonFDY/bellabeat)
-__Description__: Analysis of smart device data taken from kaggle to gain insights into how consumers use their devices. I evaluated the data and its limitations, cleaned, aggregated and merged the data, grouped users and created visualisations.\ 
+__Description__: Analysis of smart device data taken from kaggle to gain insights into how consumers use their devices. I evaluated the data and its limitations, cleaned, aggregated and merged the data, grouped users and created visualisations.\
 __Results__: Recommendations were made for Bellabeat's marketing strategy based on the trends discovered. Due to the limitations of the data, recommendations for how the company could improve this analysis were also provided.\
 __Tech Stack__: SQL, BigQuery, R, Rstudio, Tidyverse, Tableau
 
