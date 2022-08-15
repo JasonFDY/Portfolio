@@ -1,7 +1,7 @@
 # Jason Yeung - Portfolio
 
 ## About
-Hi, my name is Jason. I'm an aspiring data analyst and a GPhC registered pharmacist with a Masters in Pharmacy from Keele University. I am self taught and have developed skills in Excel/Google Sheets, SQL, Tableau, R and Python by completing courses on Codecademy and the Google Data Analytics Certificate. 
+Hi, my name is Jason. I'm an aspiring data analyst who is self taught and has developed skills in Excel/Google Sheets, SQL, Tableau, R and Python by completing courses on Codecademy and the Google Data Analytics Certificate. My background is in healthcare, I have a Masters in Pharmacy from Keele University and worked as a pharmacist as a community pharmacy manager for two years.
 
 ### Why I Am Changing Careers
 Admittedly, this is quite a drastic change, but I believe it is the right career move for myself. To make a long story short, pharmacy was never a career I dreamt about, it was more of a matter of being guided in that direction because of the subjects I performed well in and it being a well regarded profession. I have learnt a lot and have developed a lot of skills as a pharmacist and a manager, however, I have since come to the realisation that unfortunately, it is not a career I can see myself in in the long term. 
