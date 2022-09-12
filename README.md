@@ -1,14 +1,7 @@
 # Jason Yeung - Portfolio
 
 ## About
-Hi, my name is Jason. I'm an aspiring data analyst who is self taught and has developed skills in Excel/Google Sheets, SQL, Tableau, R and Python by completing courses on Codecademy and the Google Data Analytics Certificate. My background is in healthcare, I have a Masters in Pharmacy from Keele University and worked as a pharmacist as a community pharmacy manager for two years.
-
-### Why I Am Changing Careers
-Admittedly, this is quite a drastic change, but I believe it is the right career move for myself. To make a long story short, pharmacy was never a career I dreamt about, it was more of a matter of being guided in that direction because of the subjects I performed well in and it being a well regarded profession. I have learnt a lot and have developed a lot of skills as a pharmacist and a manager, however, I have since come to the realisation that unfortunately, it is not a career I can see myself in in the long term. 
-
-I would like my job to be something I have more of a personal interest in, I would like to really geek out about what I do and I have found that in data analytics. Since I started my learning, I have developed a new found appreciation for how data can be used and the insights that it brings; I have started to notice data more in every day life, including on the news and in sports. The fact that there is so much to learn is really exciting and it is so satisfying being able to solve problems using this knowledge. 
-
-As you can probably tell, I'm really looking forward to the opportunities which lie ahead for me. I have made this repository to showcase my journey, the courses I have completed and the projects I have worked on.
+Hi, my name is Jason and I am a data analyst at CDP. I am self taught and have developed skills in Excel/Google Sheets, SQL, Tableau, R and Python by completing courses on Codecademy and the Google Data Analytics Certificate. My background is in healthcare, I have a Masters in Pharmacy from Keele University and worked as a pharmacist as a community pharmacy manager for two years.
 
 ## Contents
 * [Projects](#projects)
