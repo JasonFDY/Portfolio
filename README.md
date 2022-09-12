@@ -1,7 +1,7 @@
 # Jason Yeung - Portfolio
 
 ## About
-Hi, my name is Jason and I am a data analyst at CDP. I am self taught and have developed skills in Excel/Google Sheets, SQL, Tableau, R and Python by completing courses on Codecademy and the Google Data Analytics Certificate. My background is in healthcare, I have a Masters in Pharmacy from Keele University and worked as a pharmacist as a community pharmacy manager for two years.
+Hi, my name is Jason and I am a data analyst at CDP. I am self taught and have developed skills in Excel/Google Sheets, SQL, Tableau, R and Python by completing courses on Codecademy and the Google Data Analytics Certificate. My background is in healthcare, I have a Masters in Pharmacy from Keele University and have previously worked as a pharmacist and community pharmacy manager for two years.
 
 ## Contents
 * [Projects](#projects)
